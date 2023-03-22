@@ -1,0 +1,9 @@
+.zip".blend.mkv filter=lfs diff=lfs merge=lfs -text
+.zip,.blend,.mkvv filter=lfs diff=lfs merge=lfs -text
+.zip,.blend,.mkv filter=lfs diff=lfs merge=lfs -text
+C:/Users/HP/Desktop/AR-VR-Project/* filter=lfs diff=lfs merge=lfs -text
+.blend filter=lfs diff=lfs merge=lfs -text
+.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
